@@ -6,14 +6,16 @@ Mini-Project/
 │   │   ├── HR Analysis Dashboard 2.png
 │   │   ├── HR Overview Dashboard 1.png
 │   │   └── HR Overview Dashboard 2.png
-│   │
+│   │   └── HR Workforce and Performance Insights Dashboards.pdf
+        └── HR Workforce and Performance Insights.pbix
+
 │   ├── Data/
 │   │   ├── HR(Raw Data).csv
 │   │   └── HR(Cleaned Data).xlsx
 │   │
 │   ├── Document/
 │   │   ├── Data Model.png
-│   │   └── HR Workforce and Performance Insights.pdf
+│   │   └── HR Workforce and Performance Insights Report.pdf
 │   │
 │   └── Repository Structure/
 │       └── Repository_Structure.md
