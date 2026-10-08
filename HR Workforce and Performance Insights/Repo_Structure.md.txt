@@ -6,7 +6,8 @@ Mini-Project/
 │   │   ├── HR Analysis Dashboard 2.png
 │   │   ├── HR Overview Dashboard 1.png
 │   │   └── HR Overview Dashboard 2.png
-│   │
+│   │   └── HR Workforce and Performance Insights.pbix
+
 │   ├── Data/
 │   │   ├── HR(Raw Data).csv
 │   │   └── HR(Cleaned Data).xlsx
