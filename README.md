@@ -165,7 +165,7 @@ Data Analyst | Power BI Developer
 
 🌐 GitHub: https://github.com/JovittaBharathi
 
-💼 LinkedIn: https://www.linkedin.com/in/jovitta-bharathi
+💼 LinkedIn: https://www.linkedin.com/in/jovitta-bharathiv/
 
 📧 Email: jovittavbharathi@gmail.com
 
