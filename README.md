@@ -120,10 +120,9 @@ Highlights
 
 *Experience Distribution – Promotion readiness and seniority patterns.
 
+<img width="1218" height="992" alt="Screenshot 2026-10-07 230221" src="https://github.com/user-attachments/assets/9c01113f-4457-4df0-bac7-c018b16c2727" />
 
-<img width="1218" height="992" alt="HR Overview Dashboard 1" src="https://github.com/user-attachments/assets/8801b3f6-f9a1-42cb-aa0b-e69a18c4b1ec" />
-
-<img width="1096" height="1020" alt="HR Analysis Dashboard 1" src="https://github.com/user-attachments/assets/f77208da-987b-4715-b71a-0ec42bb0b8e6" />
+<img width="1096" height="1020" alt="Screenshot 2026-10-07 230014" src="https://github.com/user-attachments/assets/329acdcd-b7bd-42d7-ba73-e470434e9d55" />
 
 
 📈 Workforce Insights
